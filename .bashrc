@@ -1,5 +1,7 @@
 . ~/bin/bash_colors.sh
 
+source /usr/local/bin/virtualenvwrapper.sh
+
 # Colorize terminal
 export TERM='xterm-color'
 alias ls='ls -G'
